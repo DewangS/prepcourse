@@ -1,0 +1,1 @@
+Hash is a key value strucutre where a value can be accessed by a reference key
